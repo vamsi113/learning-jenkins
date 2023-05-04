@@ -11,7 +11,7 @@ pipeline {
               echo 'Hello world'
             }
         }
-        stage('Foo') {
+        stage('bar') {
             steps {
                 echo 'Hello world'
             }
